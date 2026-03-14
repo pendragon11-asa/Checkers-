@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster Checkers",
+  "description": "A polished, responsive checkers game with move validation, piece kinging, and smooth animations.",
+  "requestFramePermissions": []
+}
